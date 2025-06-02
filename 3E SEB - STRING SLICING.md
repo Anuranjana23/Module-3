@@ -1,6 +1,6 @@
 # Exp.No:3(e)	SEB- STRING SLICING
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 ### AIM
 To write a python function that accepts the string. Form a new string by reversing the characters in the given string from 4 th position to 10  th position with alternate characters and print the new string.
 ### ALGORITHM
