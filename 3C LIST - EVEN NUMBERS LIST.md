@@ -1,6 +1,6 @@
 # Exp.No:3(c)	LIST- EVEN NUMBERS LIST
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 
 ### AIM
 To write a python function that accepts N and to create a list with even numbers up to N.
