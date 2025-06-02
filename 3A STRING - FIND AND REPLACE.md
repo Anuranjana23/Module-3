@@ -1,6 +1,6 @@
 # Exp.No:3(a)	STRING- FIND AND REPLACE
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 ### AIM
 To write a python function to accept a string, word to be replaced and replace the words of the string, get the new word to be replaced from the user.
 ### ALGORITHM
