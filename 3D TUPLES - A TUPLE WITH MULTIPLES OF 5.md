@@ -1,6 +1,6 @@
 # Exp.No:3(d)	TUPLES- A TUPLE WITH MULTIPLES OF 5
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 ### AIM
 To write a python program to create the tuple by the multiples of 5 up to N. Get the N value from the user.
 ### ALGORITHM
